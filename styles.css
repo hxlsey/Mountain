@@ -1,10 +1,12 @@
-body {
 
-    margin: 0 0 2 0;
+body {
+    margin: 0 0 0 0;
     background-color: #d6e6db; 
     margin: right 20px;
-}
-h1 {
+    }
+    
+    
+    h1 {
     color: rgb(88, 124, 93);
     margin: 50px auto 0 auto;
     text-align: center;
@@ -13,105 +15,110 @@ h1 {
     margin: right 20px;
     
     }
+    
     h2 {
 
-        color: rgb(76, 88, 77);
+     color: rgb(76, 88, 77);
+     font-family: 'Kreon', serif;
+     font-size: 40px;
+     text-align: center;
+     margin: right 20px;
+    }
+
+ 
+    p {
+  
+   
+    font-family: 'Kreon', serif;
+    color:rgb(95, 100, 95);
+    font-size: 25px;
+    text-align: center;
+    margin: right 20px;
+    }
+ 
+    h3 {
+        color:rgb(76, 88, 77);
         font-family: 'Kreon', serif;
         font-size: 40px;
-        text-align: center;
-        margin: right 20px;
-       }
-   
-    
-       p {
-     
       
-       font-family: 'Kreon', serif;
-       color:rgb(95, 100, 95);
-       font-size: 25px;
-       text-align: center;
-       margin: right 20px;
-       }
-    
-       h3 {
-           color:rgb(76, 88, 77);
-           font-family: 'Kreon', serif;
-           font-size: 40px;
+        margin: right 20px; 
          
-           margin: right 20px; 
-            
-       }
-   
-   
-   
-    .weddings {
-       top: 900px;
-       font-family: 'Kreon', serif;
-       color:rgb(95, 100, 95);
-       font-size: 30px;
-       margin: right 20px;
-       }
-          
-    
-   
-   
-    
-   
-   h4 { color:rgb(76, 88, 77);
-       font-family: 'Kreon', serif;
-       font-size: 40px;
-       margin: right 20px;
-        
-   
-   
-   }   
-   
-   .rooms {
-       font-family: 'Kreon', serif;
-       color:rgb(95, 100, 95);
-       font-size: 30px;
-       margin: right 20px;
-   
-   }
-   
-   h5 {
-       color:rgb(76, 88, 77);
-       font-family: 'Kreon', serif;
-       font-size: 40px;
-       margin: right 20px;
-      
-   }
+    }
+
+
+
+ .weddings {
+    top: 900px;
+    font-family: 'Kreon', serif;
+    color:rgb(95, 100, 95);
+    font-size: 30px;
+    margin: right 20px;
+    }
        
-   .spa {
+ 
+
+
+ 
+
+h4 { color:rgb(76, 88, 77);
+    font-family: 'Kreon', serif;
+    font-size: 40px;
+    margin: right 20px;
+     
+
+
+}   
+
+.rooms {
+    font-family: 'Kreon', serif;
+    color:rgb(95, 100, 95);
+    font-size: 30px;
+    margin: right 20px;
+
+}
+
+h5 {
+    color:rgb(76, 88, 77);
+    font-family: 'Kreon', serif;
+    font-size: 40px;
+    margin: right 20px;
+   
+}
+    
+.spa {
+     font-family: 'Kreon', serif;
+    color:rgb(95, 100, 95);
+    font-size: 30px;
+     margin: right 20px;
+}
+    
+
+ h6 {
+        color:rgb(76, 88, 77);
         font-family: 'Kreon', serif;
-       color:rgb(95, 100, 95);
-       font-size: 30px;
+        font-size: 40px;
+      
         margin: right 20px;
-   }
-       
-   
-    h6 {
-           color:rgb(76, 88, 77);
-           font-family: 'Kreon', serif;
-           font-size: 40px;
-         
-           margin: right 20px;
-   
-       }
-   .Food {
-       font-family: 'Kreon', serif;
-       color:rgb(95, 100, 95);
-       font-size: 30px;
-       margin: right 20px;
-   }
-   
-   
-   
-       .top-container {
-       background-color: #daece0;
-     
-       padding-top: 100px;
-       margin: 0 0 0 0;
-       
-       }
-       
+
+    }
+.Food {
+    font-family: 'Kreon', serif;
+    color:rgb(95, 100, 95);
+    font-size: 30px;
+    margin: right 20px;
+}
+
+
+
+    .top-container {
+    background-color: #daece0;
+  
+    padding-top: 100px;
+    margin: 0 0 0 0;
+    
+    }
+    
+
+
+    
+    
